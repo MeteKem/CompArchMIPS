@@ -14,7 +14,7 @@ end ADDER;
 
 architecture main of ADDER is
 
-signal data_int: signed(31 downto 0);
+signal data_int: signed range 0 to 4294967295
 
 
 begin

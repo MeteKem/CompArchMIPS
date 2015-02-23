@@ -5,18 +5,16 @@ use IEEE.math_real.all;
 
 entity ADD_4 is
 
-  port ( data_in: in std_logic_vector(31 downto 0);
-			result: out std_logic_vector(31 downto 0));
+  port (  PC: in unsigned(31 downto 0);
+			    PC_4: out unsigned(31 downto 0));
          
 end ADD_4;
 
 
 architecture main of ADD_4 is
 
-signal data_int: signed range 0 to 4294967295
-
 begin
-	data_int <= signed(data_in) + 4;
-	result <= std_logic_vector(data_int);
+  
+	PC_4 <= PC + "00000000000000000000000000000100";
 
 end main;

@@ -1,0 +1,23 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all; 
+use IEEE.math_real.all;
+
+entity ADD_4 is
+
+  port ( data_in: in unsigned(31 downto 0);
+			result: out unsigned(31 downto 0));
+         
+end ADD_4;
+
+
+architecture main of ADD_4 is
+
+signal data_int: unsigned (31 downto 0);
+
+begin
+  
+	data_int <= data_in + "00000000000000000000000000000100";
+	result <= data_int;
+
+end main;

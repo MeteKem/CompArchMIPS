@@ -1,4 +1,29 @@
-C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/Main_Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/Main_Memory.vhd
+//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/ADDER.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/ADDER.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/e_ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/e_ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g10_ALU
+
+} {} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/sign_extend_32_64.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/sign_extend_32_64.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/e_ALU.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/e_ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/Main_Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/Main_Memory.vhd
 Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -13,18 +38,40 @@ Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
 -- Loading package std_logic_1164
 -- Compiling entity g10_inst_reg
 
-} {} {}} C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/e_ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/e_ALU.vhd
-Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity g10_ALU
+} {} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/shift_left_2.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/shift_left_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
 
-} {} {}} C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/e_PC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/metekemertas/Dropbox/CompArchProject/MIPSProcessor/e_PC.vhd
-Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity g10_PC
+** Error: VHDL Compiler exiting
 
-} {} {}}
+} {3.0 4.0 5.0 6.0} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/mux.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/PC.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/PC.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/ADD_4.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/ADD_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/Main_Memory.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/Main_Memory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}} //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/e_inst_register.vhd {0 {vcom -work work -2002 -explicit //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/e_inst_register.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+** Error: (vcom-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+
+** Error: VHDL Compiler exiting
+
+} {3.0 4.0 5.0 6.0} {}}

@@ -1,0 +1,18 @@
+# Reading C:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# ** Error: (vish-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+# ** Error: (vish-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+# ** Error: (vish-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+# OpenFile //campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/MIPSProcessor.mpf 
+# Loading project MIPSProcessor
+# ** Error: (vish-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
+# Compile of ADD_4.vhd failed with 2 errors.
+# Compile of ADDER.vhd failed with 2 errors.
+# Compile of e_ALU.vhd failed with 2 errors.
+# Compile of e_inst_register.vhd failed with 2 errors.
+# Compile of Main_Memory.vhd failed with 2 errors.
+# Compile of mux.vhd failed with 2 errors.
+# Compile of PC.vhd failed with 2 errors.
+# Compile of shift_left_2.vhd failed with 2 errors.
+# Compile of sign_extend_32_64.vhd failed with 2 errors.
+# 9 compiles, 12 failed with 18 errors. 
+# ** Error: (vish-42) Unsupported ModelSim library format for "//campus.mcgill.ca/EMF/ELE/mkemer/Desktop/CompArchMIPS/work". (Format: 4)
